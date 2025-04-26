@@ -18,9 +18,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.TaskBookxpert"
         tools:targetApi="31">
-        <activity
-            android:name=".view.FeaturesActivity"
-            android:exported="false" />
+
         <activity
             android:name=".view.ImagePickerActivity"
             android:exported="false" />
