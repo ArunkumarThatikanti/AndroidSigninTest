@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "356037776812",
+    "firebase_url": "https://fir-testing-ec3a2-default-rtdb.firebaseio.com",
+    "project_id": "fir-testing-ec3a2",
+    "storage_bucket": "fir-testing-ec3a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356037776812:android:212287be1deb6ee37a9609",
+        "android_client_info": {
+          "package_name": "com.example.firebasetesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356037776812-ilng0i7aanf6svmbhhdpu82f8dpq362h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7ZaqcpmwVMU4RCp7NtE8GIaHaX0XX0l0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356037776812-ilng0i7aanf6svmbhhdpu82f8dpq362h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356037776812:android:7943ce5203cda38e7a9609",
+        "android_client_info": {
+          "package_name": "com.example.real_timepricestracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356037776812-ilng0i7aanf6svmbhhdpu82f8dpq362h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7ZaqcpmwVMU4RCp7NtE8GIaHaX0XX0l0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356037776812-ilng0i7aanf6svmbhhdpu82f8dpq362h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356037776812:android:2e52f7c8d3db1e197a9609",
+        "android_client_info": {
+          "package_name": "com.example.taskbookxpert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356037776812-q0qhqg2g847o1d9gh4ujldl7ggpv20op.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taskbookxpert",
+            "certificate_hash": "da5dffc4dbf66e5d0e7427a3281f425fe862d120"
+          }
+        },
+        {
+          "client_id": "356037776812-ilng0i7aanf6svmbhhdpu82f8dpq362h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7ZaqcpmwVMU4RCp7NtE8GIaHaX0XX0l0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356037776812-ilng0i7aanf6svmbhhdpu82f8dpq362h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
