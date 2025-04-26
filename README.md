@@ -75,7 +75,8 @@ and PDF viewing using modern Android development practices.
 ### Installation and Build APK Instructions
 1. Clone this repo:
    ```bash
-   git clone https://github.com/ArunkumarThatikanti/prices-tracker.git
+   git clone https://github.com/ArunkumarThatikanti/AndroidSigninTest.git
+
 
 2. Open the Project in Android Studio
 - Launch Android Studio.
